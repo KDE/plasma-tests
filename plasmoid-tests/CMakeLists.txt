@@ -16,3 +16,4 @@ endfunction()
 
 plasmoidtest(org.kde.plasma.analogclock)
 plasmoidtest(org.kde.plasma.kickoff)
+plasmoidtest(org.kde.plasma.notifications)
