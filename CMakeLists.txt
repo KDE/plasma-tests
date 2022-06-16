@@ -1,4 +1,4 @@
-project(plasma-workspace)
+project(plasma-tests)
 set(PROJECT_VERSION "5.25.80")
 set(PROJECT_VERSION_MAJOR 5)
 
