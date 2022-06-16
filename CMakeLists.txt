@@ -17,4 +17,4 @@ include(KDECMakeSettings)
 
 add_subdirectory(plasmoid-tests)
 
-install(FILES README.md DESTINATION ${CMAKE_INSTALL_PREFIX}/share/kf5/plasma-tests/)
+install(FILES README.md DESTINATION ${CMAKE_INSTALL_PREFIX}/share/kf${QT_MAJOR_VERSION}/plasma-tests/)
